@@ -1,0 +1,2 @@
+# KlasyAbstrakcyjne
+KlasyAbstrakcyjne
